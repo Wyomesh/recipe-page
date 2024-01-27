@@ -165,7 +165,7 @@ li::marker {
   .instructions ol,
   .ingredients ul li,
   .instructions ol li {
-    font-size: 8px;
+    font-size: 10px;
   }
   .container {
     min-width: 100vw;
